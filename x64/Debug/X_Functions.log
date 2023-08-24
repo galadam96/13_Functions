@@ -1,0 +1,3 @@
+﻿  X_Functions.c
+C:\Users\Asus\Desktop\C\X_Functions\X_Functions\X_Functions.c(21,65): warning C4305: 'function': truncation from 'double' to 'float'
+  X_Functions.vcxproj -> C:\Users\Asus\Desktop\C\X_Functions\x64\Debug\X_Functions.exe
